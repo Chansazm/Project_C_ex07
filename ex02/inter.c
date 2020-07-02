@@ -71,7 +71,7 @@ char* mystrcpy(char *dst, char *src)
 // result << painto
 
 // padinto
-
+/*
 int main(int ac, char **av) {
 //    char* param_1 = "padinton";
 //    char* param_2 = "paqefwtjetyiytjneytjdoeyjnejeyj";
@@ -83,3 +83,4 @@ int main(int ac, char **av) {
     free(s);
     return 0;
 }
+*/
