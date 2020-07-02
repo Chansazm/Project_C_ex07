@@ -92,7 +92,7 @@ char* capitalize(char* param_1){
     return param_1;
 }
 
-
+/*
 int main(int ac, char **av) {
     char* param_1 = strdup(av[1]);
 //    char* param_1 = strdup("a FiRSt LiTTlE TESt");
@@ -105,3 +105,4 @@ int main(int ac, char **av) {
     printf("%s\n", param_1);
     return 0;
 }
+*/
