@@ -23,7 +23,7 @@ void	my_putstr(char *str)
     index = 0;
 	while (str[index] != '\0') {
 		my_putchar(str[index]);
-		index++;
+		  index++;
 	}
 }
 
@@ -37,5 +37,9 @@ void my_define(int argc)
     if (my_is_even(argc) == TRUE){
     my_putstr(EVEN_MSG);
     my_putchar('\n');
+    }
+    else{
+        my_putstr(ODD_MSG);
+        my_putchar('\n');
     }
 }
